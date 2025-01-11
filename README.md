@@ -21,7 +21,7 @@ The Rules here are simple :
 # Installing
 
 ```bash
-pip install "git+https://github.com/ImtaeZ/Slot-Machine-by-ImtaeZ.git"
+git clone https://github.com/ImtaeZ/Slot-Machine-by-ImtaeZ.git
 ```
 
 # Credits
